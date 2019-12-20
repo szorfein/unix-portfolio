@@ -12,5 +12,8 @@ Screenshots of my many themes (uncompressed)
 + [creation](https://github.com/szorfein/unix-portfolio/tree/master/creation)
 + [empire](https://github.com/szorfein/unix-portfolio/tree/master/empire)
 
+## Spectrwm
++ [sunset](https://github.com/szorfein/unix-portfolio/tree/master/sunset)
+
 ## i3
 + [luna](https://github.com/szorfein/unix-portfolio/tree/master/luna)
