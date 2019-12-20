@@ -9,4 +9,5 @@ Screenshots of my many themes (uncompressed)
 + [connected](https://github.com/szorfein/unix-portfolio/tree/master/connected)
 
 ## Subtle
++ [creation](https://github.com/szorfein/unix-portfolio/tree/master/creation)
 + [empire](https://github.com/szorfein/unix-portfolio/tree/master/empire)
