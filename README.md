@@ -16,4 +16,5 @@ Screenshots of my many themes (uncompressed)
 + [sunset](https://github.com/szorfein/unix-portfolio/tree/master/sunset)
 
 ## i3
++ [madness](https://github.com/szorfein/unix-portfolio/tree/master/madness)
 + [luna](https://github.com/szorfein/unix-portfolio/tree/master/luna)
