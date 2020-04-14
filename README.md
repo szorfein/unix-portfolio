@@ -2,6 +2,7 @@
 Screenshots of my many themes (uncompressed)
 
 ## Awesome
++ [sci](https://github.com/szorfein/unix-portfolio/tree/master/sci)
 + [worker](https://github.com/szorfein/unix-portfolio/tree/master/worker)
 + [morpho](https://github.com/szorfein/unix-portfolio/tree/master/morpho)
 + [miami](https://github.com/szorfein/unix-portfolio/tree/master/miami)
