@@ -2,6 +2,7 @@
 Screenshots of my many themes (uncompressed)
 
 ## Awesome
++ [focus](https://github.com/szorfein/unix-portfolio/tree/master/focus)
 + [lines](https://github.com/szorfein/unix-portfolio/tree/master/lines)
 + [sci](https://github.com/szorfein/unix-portfolio/tree/master/sci)
 + [worker](https://github.com/szorfein/unix-portfolio/tree/master/worker)
