@@ -1,6 +1,9 @@
 # unix-portfolio
 Screenshots of my many themes (uncompressed)
 
+## SwayFX
++ [holy](https://github.com/szorfein/unix-portfolio/tree/master/holy)
+
 ## Awesome
 + [focus](https://github.com/szorfein/unix-portfolio/tree/master/focus)
 + [lines](https://github.com/szorfein/unix-portfolio/tree/master/lines)
