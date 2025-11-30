@@ -6,6 +6,7 @@ Screenshots of my many themes (uncompressed)
 
 - [holy](https://github.com/szorfein/unix-portfolio/tree/master/holy)
 - [jinx](https://github.com/szorfein/unix-portfolio/tree/master/Jinx)
+- [abyss](https://github.com/szorfein/unix-portfolio/tree/master/Abyss)
 
 ## Awesome
 
