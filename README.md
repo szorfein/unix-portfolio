@@ -4,10 +4,11 @@ Screenshots of my many themes (uncompressed)
 
 ## SwayFX
 
-- [holy](https://github.com/szorfein/unix-portfolio/tree/master/holy)
-- [jinx](https://github.com/szorfein/unix-portfolio/tree/master/Jinx)
+- [holy](https://github.com/szorfein/unix-portfolio/tree/master/SwayFX/holy)
+- [jinx](https://github.com/szorfein/unix-portfolio/tree/master/SwayFX/Jinx)
 - [abyss](https://github.com/szorfein/unix-portfolio/tree/master/Abyss)
 - [vibe](https://github.com/szorfein/unix-portfolio/tree/master/Vibe)
+- [valyria](https://github.com/szorfein/unix-portfolio/tree/master/SwayFX/Valyria)
 
 ## Awesome
 
